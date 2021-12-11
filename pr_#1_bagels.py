@@ -7,3 +7,5 @@ Day #1 Project - Bagels
     Blog:musawakiliml.tech
     Repo:musawakiliML
 '''
+
+import random
